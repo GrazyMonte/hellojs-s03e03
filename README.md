@@ -1,6 +1,6 @@
 # hellojs-s03e03
 
-Exercício / desafio
+# Exercício / desafio
 
 crie no github um repositório chamado hellojs-s03e03
 
@@ -51,14 +51,14 @@ um arquivo a ser executado $ node cademeucatiorro.js que busca um cachorro pelo 
 um migrate com a tabela presenca contendo as colunas usuario, episodio, datapresenca, repo
 crie um insert usando knex.raw inserindo um aluno Teste e chame de hello-presenca.js
 
-Top-top challenge 👾
+# Top-top challenge 👾
 
 Utilize a solução do ep S03e02 para realizar inserts na tabela presenca.
 
-Qual o objetivo?
+# Qual o objetivo?
 
 Ter na tabela presenca todos os participantes que postaram links de repositórios com as implementações até as datas limites.
 
-Dúvidas?
+# Dúvidas?
 
 Prazo para entrega (e postagem do link do repositório na issue S03E03 : 2017-09-18)
