@@ -42,14 +42,14 @@ você deve receber o nome que deseja incluir
 
 criem:
 
-um migrate com a tabela cachorro
-um migrate inserindo 2 cachorros
-um migrate adicionando a coluna marcacachorro à tabela
-tentem fazer rollback e mudem de ideia de novo
-um arquivo a ser executado $ node meuscachorros.js que recebe o nome e a marca do cão e insere o cachorro na tabela
-um arquivo a ser executado $ node cademeucatiorro.js que busca um cachorro pelo nome
-um migrate com a tabela presenca contendo as colunas usuario, episodio, datapresenca, repo
-crie um insert usando knex.raw inserindo um aluno Teste e chame de hello-presenca.js
+- um migrate com a tabela cachorro
+- um migrate inserindo 2 cachorros
+- um migrate adicionando a coluna marcacachorro à tabela
+- tentem fazer rollback e mudem de ideia de novo
+- um arquivo a ser executado $ node meuscachorros.js que recebe o nome e a marca do cão e insere o cachorro na tabela
+- um arquivo a ser executado $ node cademeucatiorro.js que busca um cachorro pelo nome
+- um migrate com a tabela presenca contendo as colunas usuario, episodio, datapresenca, repo
+- crie um insert usando knex.raw inserindo um aluno Teste e chame de hello-presenca.js
 
 # Top-top challenge 👾
 
